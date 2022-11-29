@@ -63,7 +63,8 @@ p {
 }
 
 #header-container {
-
+display: grid;
+grid-template-rows: 250px;
 }
 
 #main-container {
